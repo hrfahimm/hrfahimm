@@ -5,12 +5,13 @@
  
 <h3 align="center">/* LIFE RUNS ON CODE */</h3>
 
-<h3 align="center">A MERN Stack developer </h3>
-<h5 align="center">Also Some Backend </h3>
 
 <br/>
 
 <div align="center">
+
+<h5 align="center"> 👨🏻‍💻 A MERN Stack developer </h3>
+<h6 align="center"> → Also Some Backend </h3>
  
  🔭 I’m currently working on ** Hotel Booking (app)**
  
