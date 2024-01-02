@@ -4,12 +4,7 @@
 <h2 align="center">I'm Hasibur Rahman Fahim</h3>
  
 <h3 align="center">/* LIFE RUNS ON CODE */</h3>
-
-
-<br/>
-
 <div align="center">
-
 <h5 align="center"> 👨🏻‍💻 A MERN Stack developer </h3>
 <h6 align="center"> → Also Some Backend </h3>
  
@@ -19,7 +14,6 @@
 
 💬 Ask me about **Next.js, React, Firebase... or anything on MERN **
 
- 
 
  </div>
  <br/>
