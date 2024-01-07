@@ -22,7 +22,7 @@
     <img src="./gmail.png" />
   </a>
   <a href="https://linkedin.com/in/hrfahimm" target="_blank">
-    <img src="./linkedin.jpg" target="_blank" />
+    <img w-12 src="./linkedin.jpg" target="_blank" />
   </a>
   <a href="https://hrfahimm.vercel.app" target="_blank">
      <img src="./website.png" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
