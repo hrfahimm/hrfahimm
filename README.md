@@ -8,11 +8,11 @@
 <h5 align="center"> 👨🏻‍💻 A MERN Stack developer </h3>
 <h6 align="center"> → Also Some Backend </h3>
  
- 🔭 I’m currently working on ** Hotel Booking (app)**
+ 🔭 I’m currently working on  Hotel Booking (app)
  
- 🌱 I’m currently learning **Next js, Redux **
+ 🌱 I’m currently learning Next js, Redux 
 
-💬 Ask me about **Next.js, React, Firebase... or anything on MERN **
+💬 Ask me about Next.js, React, Firebase... or anything on MERN 
 
 
  </div>
