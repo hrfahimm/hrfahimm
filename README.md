@@ -1,12 +1,16 @@
-<img src="./codee.png" />
- # Hi there! 👋
+# Hi there! 👋
 
-I'm [Your Name], a passionate frontend developer with a knack for creating elegant and responsive user interfaces. Welcome to my GitHub profile!
+I'm [Your Name], a frontend developer with a passion for crafting beautiful and interactive user interfaces. Here's a glimpse of my skills:
 
-## 🔧 Technologies & Tools
+## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frontend:** 
+- **Languages:**
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+- **Frontend:**
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -33,30 +37,10 @@ I'm [Your Name], a passionate frontend developer with a knack for creating elega
 - **Deployment:**
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🚀 What I'm Currently Working On
-
-I'm currently focusing on enhancing my skills in [specific technology or framework] and working on [project details], aiming to create [describe the goal or impact of the project].
-
-## 🌟 Featured Projects
-
-### Project 1: [Project Name](link-to-repository)
-   - Brief description of the project.
-   - Technologies used: [List technologies/frameworks used].
-   - [Demo link or screenshot]
-
-### Project 2: [Project Name](link-to-repository)
-   - Brief description of the project.
-   - Technologies used: [List technologies/frameworks used].
-   - [Demo link or screenshot]
-
-## 📚 What I'm Learning
-
-I'm always eager to expand my skill set. Currently, I'm diving deeper into [specific technology or skill], with plans to explore [future technology or skill].
-
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
 - **Twitter:** [@YourTwitterHandle](link-to-twitter)
 - **Portfolio:** [Your Portfolio Website](link-to-portfolio)
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions, feedback, or collaboration ideas. Happy coding! 🚀
+Feel free to reach out for collaborations, questions, or just to say hi. Happy coding! 🚀
