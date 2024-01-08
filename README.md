@@ -41,7 +41,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-  📞 **Connect:**
+📞*Connect:*
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](hrfahimm@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hrfahimm)
