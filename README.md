@@ -41,11 +41,11 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-📞*Connect:*
+📞**Connect:**
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](hrfahimm@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hrfahimm)
 
   <h3 align="center">LIFE RUNS ON CODE </h3>
-<img  src="./68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572.svg" />
+<img  src="./68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572.svg?style=margin=auto" />
 
