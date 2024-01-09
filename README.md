@@ -38,7 +38,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 
-
+<table><tr><td valign="top" width="33%">
 
 
 📞**Connect:**
@@ -49,9 +49,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   <h3 align="center">LIFE RUNS ON CODE </h3>
   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkHorse0311&show_icons=true&theme=gruvbox)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Long Hai&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHorse0311&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+ 
 
   <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
