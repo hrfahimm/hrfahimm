@@ -18,40 +18,32 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     
 </div>
 
-### Frontend:  
- <div align="center">  
-    <img alt="HTML" height="50"  src="./html2.svg" />
-    <img alt="HTML"  height="50" src="./css2.svg" />
-    <img alt="JavaScript"  height="50"  src="./js2.svg" />
-    <img alt="TypeScript"   height="50" src="./ts2.svg" />
-    
-</div>
-  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-  ![Daisy UI](https://img.shields.io/badge/Daisy_UI-10B981?style=flat-square&logoColor=white)
-  ![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=flat-square&logo=swiper&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Sanity](https://img.shields.io/badge/Sanity-3333FF?style=flat-square&logo=sanity&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-1F1F1F?style=flat-square&logo=framer&logoColor=8D8D8D)
-  ![React-Hot-Toaster](https://img.shields.io/badge/React_Hot_Toaster-Fc4c4c?style=flat-square&logo=react&logoColor=white)
-  ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-198754?style=flat-square&logo=javascript&logoColor=white)
-  ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Blue?style=flat-square&logo=react&logoColor=white)
-  ![Shards UI](https://img.shields.io/badge/Shards_UI-3498DB?style=flat-square&logoColor=white)
-  ![Daisy UI](https://img.shields.io/badge/Daisy_UI-10B981?style=flat-square&logoColor=white)
-  ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-  ![SWR](https://img.shields.io/badge/SWR-00ABE3?style=flat-square&logo=vercel&logoColor=white)
-  ![Axios](https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
+
+
+
+
+
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Xamarin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="AngularJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<br/><br/>
+
+ 
+   
 
 
 ### BACKEND :
@@ -69,7 +61,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-### BACKEND :
+### CONTACT :
  <div align="center">  
     <img alt="linkend" height="50"  src="./linkedin.jpg" />
     <img alt="FACEBOON"  height="50" src="./facebook.png" />
