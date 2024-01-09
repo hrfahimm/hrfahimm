@@ -54,29 +54,17 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  <br/><br/>  
  <div align="center">  
 
-
-
-
-  <a href="https://facebook.com/hrfahimm" target="_blank"><img align="center" src="./facebook.png" alt="hrfahimm" height="50" /></a>
-  <a href="https://facebook.com/hrfahimm" target="_blank"><img align="center" src="./facebook.png" alt="hrfahimm" height="50" /></a>
-  <a href="https://facebook.com/hrfahimm" target="_blank"><img align="center" src="./facebook.png" alt="hrfahimm" height="50" /></a>
-  <a href="https://facebook.com/hrfahimm" target="_blank"><img align="center" src="./facebook.png" alt="hrfahimm" height="50" /></a>
-    
-
-   
-- **LinkedIn:**
+ 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
 
-- **Gmail:**
-  [![Gmail](src="./gmail.png")](mailto:hrfahimm@gmail.com)
+ 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
 
-- **Facebook:**
+ 
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/your-username)
 
-- **Portfolio:**
+ 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://hrfahimm.vercel.app)
-
- />
  </div>
  
   <h3 align="center">LIFE RUNS ON CODE </h3>
