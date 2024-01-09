@@ -5,6 +5,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
   <h2 align="center">Skills</h2>
 
+  <table><tr><td valign="top" width="33%">
+
 - **Languages:**
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -37,8 +39,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   ![Axios](https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
+</td></tr></table>  
 
-<table><tr><td valign="top" width="33%">
 
 
 📞**Connect:**
