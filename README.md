@@ -54,6 +54,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   <h3  align="center">- CONTACTS -</h3>
 
  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&logoRadius=30)](http://hrfahimm.vercel.app)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=40&logoRadius=10)](mailto:hrfahimm@gmail.com)
+
   
   <div align="center"> 
 
