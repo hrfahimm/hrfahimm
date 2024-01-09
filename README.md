@@ -12,10 +12,10 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   
 
  <div align="center">  
-    <img alt="HTML" height="70"  src="./html2.svg" />
-    <img alt="HTML"  height="70" src="./css2.svg" />
-    <img alt="JavaScript"  height="70"  src="./js2.svg" />
-    <img alt="TypeScript"   height="70" src="./ts2.svg" />
+    <img alt="HTML" height="60"  src="./html2.svg" />
+    <img alt="HTML"  height="60" src="./css2.svg" />
+    <img alt="JavaScript"  height="60"  src="./js2.svg" />
+    <img alt="TypeScript"   height="60" src="./ts2.svg" />
 </div>         
 <br/><br/>         
  
@@ -49,9 +49,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     <img alt="EXPRESS"  height="50" src="./express.png" />
 </div>
 </td></tr></table>  
-
-   
- <br/><br/>  
+ <br/>
  
   <h3  align="center">- CONTACTS -</h3>
   <div align="center"> 
@@ -60,11 +58,12 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/your-username)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://hrfahimm.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://hrfahimm.vercel.app)
+
   
   </div>
   <br/>   
 
- 
   <h3 align="center">LIFE RUNS ON CODE </h3>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
