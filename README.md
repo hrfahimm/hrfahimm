@@ -52,23 +52,18 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  <br/>
  
   <h3  align="center">- CONTACTS -</h3>
-  <div align="center"> 
-    
-   
-  
-  [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoWidth=40&logoColor=white)](mailto:hrfahimm@gmail.com)
-  [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoWidth=40&logoHeight=70&logoColor=white)](mailto:hrfahimm@gmail.com)
 
-  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&logoRadius=10)](http://hrfahimm.vercel.app){:target="_blank"}
+  <div align="center"> 
+
   [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
   [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hrfahimm)
   [![](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://hrfahimm.vercel.app)
    
-
-  
   </div>
   <br/>   
+ 
 
   <h3 align="center">LIFE RUNS ON CODE </h3>
   <p align="center">
