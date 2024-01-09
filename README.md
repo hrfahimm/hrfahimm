@@ -19,6 +19,14 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 </div>
 
 ### Frontend:  
+ <div align="center">  
+    <img alt="HTML" height="50"  src="./html2.svg" />
+    <img alt="HTML"  height="50" src="./css2.svg" />
+    <img alt="JavaScript"  height="50"  src="./js2.svg" />
+    <img alt="TypeScript"   height="50" src="./ts2.svg" />
+    
+</div>
+  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -46,12 +54,10 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-### Languages:
+### BACKEND :
  <div align="center">  
     <img alt="NODEJS" height="50"  src="./node-js.png" />
     <img alt="EXPRESS"  height="50" src="./express.png" />
-     
-    
 </div>
 
 
@@ -63,18 +69,19 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-### 📞Connect:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](hrfahimm@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hrfahimm)
-
+### BACKEND :
+ <div align="center">  
+    <img alt="linkend" height="50"  src="./linkedin.jpg" />
+    <img alt="FACEBOON"  height="50" src="./facebook.png" />
+</div>
   <h3 align="center">LIFE RUNS ON CODE </h3>
   
 
  
 
   <p align="center">
-     <img src="./footer.svg"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<!--      <img src="./footer.svg"/> -->
 </p>
 
 
