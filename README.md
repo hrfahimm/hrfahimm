@@ -19,7 +19,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-  <img alt="NODEJS" height="50"  ssrc="./next.png" />
+  <img alt="NODEJS" height="50"  src="./nextjs2.png" />
    <img alt="NODEJS" height="50"   src="./react.png" />
     <img alt="NODEJS" height="50"   src="./redux.png" />
      <img alt="NODEJS" height="50"  src="./tailwind.png"/>
