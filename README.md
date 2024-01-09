@@ -50,16 +50,20 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 </div>
 </td></tr></table>  
  <br/>
-   <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;">   <img alt="NODEJS" height="50"   src="./gmail.png" /></a>
-
- 
+   
   <h3  align="center">- CONTACTS -</h3>
   <div align="center" > 
 
-  [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
-  [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hrfahimm)
-  [![](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://hrfahimm.vercel.app)
+  <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./gmail.png" /></a>
+  
+  <a href="https://www.linkedin.com/in/hrfahimm)" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./linkedin2.svg" /></a>
+  
+  <a href="https://www.facebook.com/hrfahimm" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./facebook.png" /></a>
+  
+  <a  href="http://hrfahimm.vercel.app" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./website.png" /></a>
+
+
+ 
    
   </div>
   <br/>   
