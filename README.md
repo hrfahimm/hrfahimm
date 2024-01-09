@@ -50,14 +50,11 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 </div>
 </td></tr></table>  
  <br/>
+   <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;">Gmail</a>
+
  
   <h3  align="center">- CONTACTS -</h3>
-
- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&logoRadius=30)](http://hrfahimm.vercel.app)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=40&logoRadius=10)](mailto:hrfahimm@gmail.com)
-
-  
-  <div align="center"> 
+  <div align="center" > 
 
   [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
