@@ -21,13 +21,13 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
  
-  <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./nextjs.png" />
-  <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./react.png" />
+  <img align="left" alt="CSharp"  height="50" width="50px"  src="./nextjs.png" />
+  <img align="left" alt="CSharp"  height="50" width="50px" src="./react.png" />
   <img align="left" alt="CSharp"   height="50" width="50px" style="padding-right:10px;" src="./redux.png" />
   <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./tailwind.png" />
   <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./mui.png" />
   <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./swiper.svg" />
-  <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./Firebase.png" />
+  <img align="left" alt="CSharp"  height="50" width="50px"   src="./Firebase.png" />
   <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./mongodb.png" />
   <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./" />
   <img align="left" alt="CSharp"  height="50" width="50px" style="padding-right:10px;" src="./" />
