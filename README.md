@@ -68,7 +68,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
 
 - **Gmail:**
-  [![Gmail](src="./gmail")](mailto:hrfahimm@gmail.com)
+  [![Gmail](src="./gmail.png")](mailto:hrfahimm@gmail.com)
 
 - **Facebook:**
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/your-username)
