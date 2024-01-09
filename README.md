@@ -53,7 +53,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  
   <h3  align="center">- CONTACTS -</h3>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&logoRadius=10)](http://hrfahimm.vercel.app){:target="_blank"}
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&logoRadius=10:target="_blank")](http://hrfahimm.vercel.app) 
+  
   <div align="center"> 
 
   [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
