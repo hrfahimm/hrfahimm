@@ -6,7 +6,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
  
  
-
+</td><td valign="top" width="33%">
+  <br/>
 ### SKILLS
 
  <div align="center">  
@@ -18,7 +19,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 <br/><br/>         
  
 <div align="center">  
-  <img alt="NODEJS" height="50" style="padding:20px" src="./nextjs2.svg" />
+  <img alt="NODEJS" height="50"   src="./nextjs2.svg" />
    <img alt="NODEJS" height="50"   src="./react.png" />
     <img alt="NODEJS" height="50"   src="./redux.png" />
      <img alt="NODEJS" height="50"  src="./tailwind.png"/>
@@ -40,12 +41,13 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
          <img alt="NODEJS" height="50"   src="./netlify.svg"/>
          <img alt="NODEJS" height="50"   src="./vercel.png"/>  
 </div>         
-<br/><br/>  
+<br/>   
 
  <div align="center">  
     <img alt="NODEJS" height="50"  src="./node-js.png" />
     <img alt="EXPRESS"  height="50" src="./express.png" />
 </div>
+</td></tr></table>  
 
  <br/><br/>  
  <div align="center">  
