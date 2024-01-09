@@ -3,9 +3,10 @@
   
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
- ### Skills 
-
+ 
   <table><tr><td valign="top" width="33%">
+
+   <h3 align="center">Skills </h3>
 
 - **Languages:**
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
