@@ -11,11 +11,12 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 ### Languages:
  <div align="center">  
-    <img alt="HTML"   src="./html.png" />
-  <img alt="HTML"   src="./css.png" />
-    <img alt="JavaScript"    src="./js.png" />
-    <img alt="TypeScript"    src="./ts.png" />
+    <img alt="HTML" height="50"  src="./html.png" />
+    <img alt="HTML"  height="50" src="./css.png" />
+    <img alt="JavaScript"  height="50"  src="./js.png" />
+    <img alt="TypeScript"   height="50" src="./ts.png" />
     
+</div>
 
 ### Frontend:  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -42,6 +43,17 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   ![SWR](https://img.shields.io/badge/SWR-00ABE3?style=flat-square&logo=vercel&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+
+
+### Languages:
+ <div align="center">  
+    <img alt="NODEJS" height="50"  src="./node-js.png" />
+    <img alt="EXPRESS"  height="50" src="./express.png" />
+     
+    
+</div>
+
 
 </td></tr></table>  
 
