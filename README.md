@@ -12,9 +12,9 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 ### Languages:
  <div align="center">  
     <img alt="HTML" weight="50" height="50" src="./html.png" />
-  <img alt="HTML"  weight="50" height="50" src="./css.png" />
-    <img alt="JavaScript"  weight="50" height="50"  src="./js.png" />
-    <img alt="TypeScript"  weight="50" height="50" src="./ts.png" />
+  <img alt="HTML"  weight="70" height="50" src="./css.png" />
+    <img alt="JavaScript"  weight="40" height="50"  src="./js.png" />
+    <img alt="TypeScript"  weight="40" height="50" src="./ts.png" />
     
 
 ### Frontend:  
