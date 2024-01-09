@@ -1,5 +1,5 @@
 <img src="./codee.png" />
-<img alt="HTML" height="50" src="./css.png" />
+
   <h3 align="center">السلام عليكم ورحمة الله وبركاته</h3>
   
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
@@ -10,10 +10,12 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
    <h2 align="center"> Skills </h2>
 
 ### Languages:
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+ <div align="center">  
+    <img alt="HTML" height="50" src="./html.png" />
+  <img alt="HTML" height="50" src="./css.png" />
+    <img alt="JavaScript" height="50"  src="./js.png" />
+    <img alt="TypeScript" height="50" src="./ts.png" />
+    
 
 ### Frontend:  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
