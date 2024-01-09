@@ -10,10 +10,10 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 ### SKILLS
 
  <div align="center">  
-    <img alt="HTML" height="50"  src="./html2.svg" />
-    <img alt="HTML"  height="50" src="./css2.svg" />
-    <img alt="JavaScript"  height="50"  src="./js2.svg" />
-    <img alt="TypeScript"   height="50" src="./ts2.svg" />
+    <img alt="HTML" height="70"  src="./html2.svg" />
+    <img alt="HTML"  height="70" src="./css2.svg" />
+    <img alt="JavaScript"  height="70"  src="./js2.svg" />
+    <img alt="TypeScript"   height="70" src="./ts2.svg" />
 </div>         
 <br/><br/>         
  
@@ -38,11 +38,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
          <img alt="NODEJS" height="50"   src="./reactform.svg"/>
          <img alt="NODEJS" height="50"   src="./axios.png"/>
          <img alt="NODEJS" height="50"   src="./netlify.svg"/>
-         <img alt="NODEJS" height="50"   src="./vercel.png"/>
-        
- 
-          
-         
+         <img alt="NODEJS" height="50"   src="./vercel.png"/>  
 </div>         
 <br/><br/>  
 
@@ -51,12 +47,12 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     <img alt="EXPRESS"  height="50" src="./express.png" />
 </div>
 
-
  <br/><br/>  
  <div align="center">  
     <img alt="linkend" height="50"  src="./linkedin2.svg" />
     <img alt="FACEBOON"  height="50" src="./facebook.png" />
  </div>
+ 
   <h3 align="center">LIFE RUNS ON CODE </h3>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
