@@ -8,7 +8,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  
 </td><td valign="top" width="33%">
   <br/>
-### SKILLS
+  SKILLS
 
  <div align="center">  
     <img alt="HTML" height="70"  src="./html2.svg" />
