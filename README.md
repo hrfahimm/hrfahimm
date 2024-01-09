@@ -23,17 +23,24 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     <img alt="NODEJS" height="50"   src="./redux.png" />
      <img alt="NODEJS" height="50"  src="./tailwind.png"/>
       <img alt="NODEJS" height="50"  src="./mui.png" />
+      <img alt="NODEJS" height="50"  src="./dausiui.svg" />
        <img alt="NODEJS" height="50"  src="./swiper.svg"/>
         <img alt="NODEJS" height="50"   src="./Firebase.png" />
          <img alt="NODEJS" height="50"   src="./mongodb.png"/>
          <img alt="NODEJS" height="50"   src="./figma.png"/>
          <img alt="NODEJS" height="50"   src="./framer.png"/>
          <img alt="NODEJS" height="50"   src="./stripe.webp"/>
-         <img alt="NODEJS" height="50"   src="./next.png"/>
          <img alt="NODEJS" height="50"   src="./reactquery.png"/>
          <img alt="NODEJS" height="50"   src="./resendd.png"/>
-         <img alt="NODEJS" height="50"   src="./s.svg"/>
          <img alt="NODEJS" height="50"   src="./sal.png"/>
+         <img alt="NODEJS" height="50"   src="./jwt2.svg"/>
+         <img alt="NODEJS" height="50"   src="./ricon.svg"/>
+         <img alt="NODEJS" height="50"   src="./reactform.svg"/>
+         <img alt="NODEJS" height="50"   src="./axios.png"/>
+         <img alt="NODEJS" height="50"   src="./netlify.svg"/>
+         <img alt="NODEJS" height="50"   src="./vercel.png"/>
+        
+ 
           
          
 </div>         
@@ -47,7 +54,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
  <br/><br/>  
  <div align="center">  
-    <img alt="linkend" height="50"  src="./linkedin.jpg" />
+    <img alt="linkend" height="50"  src="./linkedin2.svg" />
     <img alt="FACEBOON"  height="50" src="./facebook.png" />
  </div>
   <h3 align="center">LIFE RUNS ON CODE </h3>
