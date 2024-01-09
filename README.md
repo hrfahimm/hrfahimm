@@ -54,7 +54,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   <h3  align="center">- CONTACTS -</h3>
   <div align="center" > 
 
-  <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; margin: 8px 8px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./gmail.png" /></a>
+  <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 20px 20px; margin: 8px 8px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./gmail.png" /></a>
   <a href="https://www.linkedin.com/in/hrfahimm)" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./linkedin2.svg" /></a>
   <a href="https://www.facebook.com/hrfahimm" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./facebook.png" /></a>
   <a href="http://hrfahimm.vercel.app" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px;" target="_blank"> <img alt="gmail" height="50" src="./website.png" /></a>
