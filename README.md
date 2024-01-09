@@ -74,7 +74,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  
 
   <p align="center">
-     <img src="./footer.svg&section=footer"/>
+     <img src="./footer.svg"/>
 </p>
 
 
