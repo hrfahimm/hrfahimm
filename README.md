@@ -5,10 +5,11 @@
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
  
- 
+ <h3 align="center">SKILLS</h3>
 </td><td valign="top" width="33%">
   <br/>
-  SKILLS
+  
+  
 
  <div align="center">  
     <img alt="HTML" height="70"  src="./html2.svg" />
