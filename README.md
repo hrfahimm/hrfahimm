@@ -55,6 +55,20 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     <img alt="gmail" height="50"  src="./gmail.png" (mailto:hrfahimm@gmail.com) />
     <img alt="linkend" height="50"  src="./linkedin2.svg" />
     <img alt="FACEBOON"  height="50" src="./facebook.png" (https://www.facebook.com/hrfahimm)
+
+   
+- **LinkedIn:**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
+
+- **Gmail:**
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
+
+- **Facebook:**
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/your-username)
+
+- **Portfolio:**
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://hrfahimm.vercel.app)
+
  />
  </div>
  
