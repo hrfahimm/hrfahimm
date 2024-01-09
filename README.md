@@ -55,7 +55,9 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   <div align="center"> 
     
    
-  [![](https://img.shields.io/badge/?style=flat-square&logo=gmail&logoColor=white&logoHeight=50)](mailto:hrfahimm@gmail.com)
+  [![](https://img.shields.io/badge/?style=flat-rounded&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
+  [![](https://img.shields.io/badge/?style=flat-rounded&logo=gmail&logoWidth=50&logoColor=white)](mailto:hrfahimm@gmail.com)
+  [![](https://img.shields.io/badge/?style=flat-round&logo=gmail&logoColor=white)](mailto:hrfahimm@gmail.com)
   [![](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&logoHeight=50)](mailto:hrfahimm@gmail.com)
   [![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoHeight=50)](mailto:hrfahimm@gmail.com)
   [![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
