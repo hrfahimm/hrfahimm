@@ -15,10 +15,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     <img alt="TypeScript"   height="50" src="./ts2.svg" />
 </div>         
 <br/><br/>         
-<br/><br/>
-
-
-
+ 
+<div align="center">  
   <img alt="NODEJS" height="50"  src="./nextjs2.svg" />
    <img alt="NODEJS" height="50"   src="./react.png" />
     <img alt="NODEJS" height="50"   src="./redux.png" />
@@ -28,6 +26,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
         <img alt="NODEJS" height="50"   src="./Firebase.png" />
          <img alt="NODEJS" height="50"   src="./mongodb.png"/>
          
+</div>         
+<br/><br/>         
 <br/><br/>
 
  
