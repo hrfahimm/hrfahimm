@@ -1,4 +1,5 @@
 <img src="./codee.png" />
+<img alt="HTML" height="50" src="./css.png" />
   <h3 align="center">السلام عليكم ورحمة الله وبركاته</h3>
   
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
@@ -6,7 +7,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  
   <table><tr><td valign="top" width="33%">
 
-   <h1 align="center"> ### Skills </h3>
+   <h2 align="center"> Skills </h2>
 
 ### Languages:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -44,7 +45,11 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
 
 
-📞**Connect:**
+
+
+
+
+### 📞Connect:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrfahimm)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](hrfahimm@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hrfahimm)
