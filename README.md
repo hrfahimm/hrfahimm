@@ -5,7 +5,7 @@
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
  
- <h3 align="center">SKILLS</h3>
+ <h2 font="bold" align="center">SKILLS</h2>
 </td><td valign="top" width="33%">
   <br/>
   
