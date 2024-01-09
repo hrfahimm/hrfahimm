@@ -5,9 +5,7 @@
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
  
-  <table><tr><td valign="top" width="33%">
-
-   <h2 align="center"> Skills </h2>
+<h2 align="center"> Skills </h2>
 
 ### Languages:
  <div align="center">  
@@ -15,8 +13,9 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
     <img alt="HTML"  height="50" src="./css2.svg" />
     <img alt="JavaScript"  height="50"  src="./js2.svg" />
     <img alt="TypeScript"   height="50" src="./ts2.svg" />
-    
-</div>
+</div>         
+<br/><br/>         
+<br/><br/>
 
 
 
@@ -29,16 +28,6 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
         <img alt="NODEJS" height="50"   src="./Firebase.png" />
          <img alt="NODEJS" height="50"   src="./mongodb.png"/>
          
-   
- 
-
-
-
-
-
-
-
- 
 <br/><br/>
 
  
@@ -52,7 +41,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 </div>
 
 
-</td></tr></table>  
+ 
 
 
 
