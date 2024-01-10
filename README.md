@@ -5,7 +5,7 @@
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
  
-<h1 align="center">SKILLS</h1>
+<h1 align="center"> ✨ SKILLS ✨</h1>
  
 <br/>
 <div align="center">  
@@ -47,7 +47,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 </div> 
  <br/>
  
-  <h3 align="center"  font="20px" >CONTACTS </h3>
+  <h3 align="center"  font="20px" > 📨 CONTACTS </h3>
   <div align="center"  > 
 
   <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px;  border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50"  src="./gmail.png" /></a>
