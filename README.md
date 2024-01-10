@@ -5,9 +5,8 @@
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
  
-<h1 align="center">**SKILLS**</h1>
+<h1 align="center">SKILLS</h1>
  
-<table><tr><td valign="top" width="33%">
 <br/>
 <div align="center">  
     <img alt="HTML" height="60"  src="./html2.svg" />
@@ -45,9 +44,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 <div align="center">  
     <img alt="NODEJS" height="50"  src="./node-js.png" />
     <img alt="EXPRESS"  height="50" src="./express.png" />
-</div>
-
-</td></tr></table>  
+</div> 
  <br/>
   <h2  align="center" >CONTACTS </h2>
   
@@ -58,10 +55,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   <a href="https://www.facebook.com/hrfahimm" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50" src="./facebook.png" /></a>
    <br/>
   <a href="http://hrfahimm.vercel.app" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="70"  src="./websit2.png" /></a>
-
   </div>
-  
-  <br/>   
   <h3 align="center">LIFE RUNS ON CODE </h3>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
