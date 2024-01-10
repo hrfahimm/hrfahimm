@@ -5,56 +5,52 @@
 I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating delightful user interfaces. Welcome to my GitHub profile!
 
  
- <h1 align="center">SKILLS</h1>
+<h1 align="center">**SKILLS**</h1>
+ 
 <table><tr><td valign="top" width="33%">
-  <br/>
-  
-  
-
- <div align="center">  
+<br/>
+<div align="center">  
     <img alt="HTML" height="60"  src="./html2.svg" />
     <img alt="HTML"  height="60" src="./css2.svg" />
     <img alt="JavaScript"  height="60"  src="./js2.svg" />
     <img alt="TypeScript"   height="60" src="./ts2.svg" />
 </div>         
-<br/><br/>         
- 
+<br/>
+<br/>         
 <div align="center">  
   <img alt="NODEJS" height="50"   src="./nextjs2.svg" />
-   <img alt="NODEJS" height="50"   src="./react.png" />
-    <img alt="NODEJS" height="50"   src="./redux.png" />
-     <img alt="NODEJS" height="50"  src="./tailwind.png"/>
-    <img alt="NODEJS" height="50"   src="./Firebase.png" />
-         <img alt="NODEJS" height="50"   src="./mongodb.png"/>
-      <img alt="NODEJS" height="50"  src="./mui.png" />
-      <img alt="NODEJS" height="50"  src="./dausiui.svg" />
-       <img alt="NODEJS" height="50"  src="./swiper.svg"/>
-         <img alt="NODEJS" height="50"   src="./figma.png"/>
-         <img alt="NODEJS" height="50"   src="./framer.png"/>
-         <img alt="NODEJS" height="50"   src="./stripe.webp"/>
-         <img alt="NODEJS" height="50"   src="./reactquery.png"/>
-         <img alt="NODEJS" height="50"   src="./resendd.png"/>
-         <img alt="NODEJS" height="50"   src="./sal.png"/>
-         <img alt="NODEJS" height="50"   src="./jwt2.svg"/>
-         <img alt="NODEJS" height="50"   src="./ricon.svg"/>
-         <img alt="NODEJS" height="50"   src="./reactform.svg"/>
-         <img alt="NODEJS" height="50"   src="./axios.png"/>
-         <img alt="NODEJS" height="50"   src="./netlify.svg"/>
-         <img alt="NODEJS" height="50"   src="./vercel.png"/>  
+  <img alt="NODEJS" height="50"   src="./react.png" />
+  <img alt="NODEJS" height="50"   src="./redux.png" />
+  <img alt="NODEJS" height="50"  src="./tailwind.png"/>
+  <img alt="NODEJS" height="50"   src="./Firebase.png" />
+  <img alt="NODEJS" height="50"   src="./mongodb.png"/>
+  <img alt="NODEJS" height="50"  src="./mui.png" />
+  <img alt="NODEJS" height="50"  src="./dausiui.svg" />
+  <img alt="NODEJS" height="50"  src="./swiper.svg"/>
+  <img alt="NODEJS" height="50"   src="./figma.png"/>
+  <img alt="NODEJS" height="50"   src="./framer.png"/>
+  <img alt="NODEJS" height="50"   src="./stripe.webp"/>
+  <img alt="NODEJS" height="50"   src="./reactquery.png"/>
+  <img alt="NODEJS" height="50"   src="./resendd.png"/>
+  <img alt="NODEJS" height="50"   src="./sal.png"/>
+  <img alt="NODEJS" height="50"   src="./jwt2.svg"/>
+  <img alt="NODEJS" height="50"   src="./ricon.svg"/>
+  <img alt="NODEJS" height="50"   src="./reactform.svg"/>
+  <img alt="NODEJS" height="50"   src="./axios.png"/>
+  <img alt="NODEJS" height="50"   src="./netlify.svg"/>
+  <img alt="NODEJS" height="50"   src="./vercel.png"/>  
 </div>         
 <br/>   
-
- <div align="center">  
+  
+<div align="center">  
     <img alt="NODEJS" height="50"  src="./node-js.png" />
     <img alt="EXPRESS"  height="50" src="./express.png" />
 </div>
 
 </td></tr></table>  
  <br/>
-   
-  <div  align="center">
-    ### CONTACTS 
-  </div>
+  <h2  align="center" >CONTACTS </h2>
+  
   <div align="center"  > 
 
   <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px;  border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50"  src="./gmail.png" /></a>
@@ -64,9 +60,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   <a href="http://hrfahimm.vercel.app" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="70"  src="./websit2.png" /></a>
 
   </div>
+  
   <br/>   
- 
-
   <h3 align="center">LIFE RUNS ON CODE </h3>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
