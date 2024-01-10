@@ -53,11 +53,9 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
 
   <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px;  border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50"  src="./gmail.png" /></a>
   <a href="https://www.linkedin.com/in/hrfahimm" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50" src="./linkedin2.svg" /></a>
-  <a href="https://www.facebook.com/hrfahimm" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50" src="./facebook.png" /></a>
   <a href="https://api.whatsapp.com/send?phone=+8801758781699" target="_blank">
-  <img src="./website.png" alt="WhatsApp" width="50" height="50">
+  <img src="./whatsapp.png" alt="WhatsApp" width="50" height="50">
 </a>
-
    <br/>
   <a href="http://hrfahimm.vercel.app" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="70"  src="./websit2.png" /></a>
   </div>
@@ -68,5 +66,10 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
   </p>
 
 
-<!-- <img margin="margin-auto" src="./68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572.svg" /> -->
+<!-- 
+<a href="https://www.facebook.com/hrfahimm" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px; border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50" src="./facebook.png" /></a>
+
+
+<img margin="margin-auto" 
+src="./68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572.svg" /> -->
 
