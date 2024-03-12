@@ -49,7 +49,8 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  <br/>
  
   <h3 align="center" > CONTACTS </h3>
-   <h6 align="center" ><link> Cell: +8801758781699 </link>   ________   <link> Email: hrfahimm@gmail.com</link> </h6> 
+   <h6 align="center" ><span style=" padding: 0px 8px;"> Cell: +8801758781699 </span>  <span> Email: 
+     hrfahimm@gmail.com</span> </h6> 
   <div align="center" > 
 
   <a href="mailto:hrfahimm@gmail.com" style="text-decoration:none; background-color: #D14836; color: white; padding: 8px 12px;  border-radius: 5px; margin-right: 10px; " target="_blank"> <img alt="gmail" height="50"  src="./gmail.png" /></a>
