@@ -49,7 +49,7 @@ I'm **Hasibur Rahman Fahim**, a frontend developer with a passion for creating d
  <br/>
  
   <h3 align="center" > CONTACTS </h3>
-   <h6 align="center" ><span style=" padding: 0px 8px;"> Cell: +8801758781699 </span>  <span> Email: 
+   <h6 align="center" ><span style=" padding: 8px 8px;"> Cell: +8801758781699 </span>  <span> Email: 
      hrfahimm@gmail.com</span> </h6> 
   <div align="center" > 
 
